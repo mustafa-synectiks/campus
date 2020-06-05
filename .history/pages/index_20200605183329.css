@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	position: relative;
+}
+h1{
+		text-align: center;
+	}
+	img{
+		position: relative;
+		margin: 0 auto;
+	}
